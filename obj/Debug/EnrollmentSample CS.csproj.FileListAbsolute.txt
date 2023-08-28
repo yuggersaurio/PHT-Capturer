@@ -1,0 +1,58 @@
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\bin\Debug\DPFPDevNET.dll
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\bin\Debug\DPFPEngNET.dll
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\bin\Debug\DPFPGuiNET.dll
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\bin\Debug\DPFPShrNET.dll
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\bin\Debug\DPFPVerNET.dll
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\bin\Debug\DPFPCtlXTypeLibNET.dll
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\bin\Debug\DPFPShrXTypeLibNET.dll
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\obj\Debug\EnrollmentSample CS.csproj.AssemblyReference.cache
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\obj\Debug\EnrollmentSample CS.csproj.SuggestedBindingRedirects.cache
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\obj\Debug\Enrollment.CaptureForm.resources
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\obj\Debug\Enrollment.MainForm.resources
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\obj\Debug\Enrollment.Properties.Resources.resources
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\obj\Debug\EnrollmentSample CS.csproj.GenerateResource.cache
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\obj\Debug\EnrollmentSample CS.csproj.CoreCompileInputs.cache
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\obj\Debug\EnrollmentSample CS.csproj.CopyComplete
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\bin\Debug\AForge.dll
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\bin\Debug\AForge.Video.DirectShow.dll
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\bin\Debug\AForge.Video.dll
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\bin\Debug\AForge.xml
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\bin\Debug\AForge.Video.xml
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\bin\Debug\AForge.Video.DirectShow.xml
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\obj\Debug\Enrollment.EnrollmentForm.resources
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\obj\Debug\Enrollment.WebcamForm.resources
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\bin\Debug\PHTools.exe.config
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\bin\Debug\PHTools.exe
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\bin\Debug\PHTools.pdb
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\obj\Debug\PHTools.exe
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\Enrollment\obj\Debug\PHTools.pdb
+C:\Users\sistemas\Proyectos\PHT-Capturer\bin\Debug\PHTools.exe.config
+C:\Users\sistemas\Proyectos\PHT-Capturer\bin\Debug\PHTools.exe
+C:\Users\sistemas\Proyectos\PHT-Capturer\bin\Debug\PHTools.pdb
+C:\Users\sistemas\Proyectos\PHT-Capturer\bin\Debug\AForge.dll
+C:\Users\sistemas\Proyectos\PHT-Capturer\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\sistemas\Proyectos\PHT-Capturer\bin\Debug\AForge.Video.dll
+C:\Users\sistemas\Proyectos\PHT-Capturer\bin\Debug\DPFPDevNET.dll
+C:\Users\sistemas\Proyectos\PHT-Capturer\bin\Debug\DPFPEngNET.dll
+C:\Users\sistemas\Proyectos\PHT-Capturer\bin\Debug\DPFPGuiNET.dll
+C:\Users\sistemas\Proyectos\PHT-Capturer\bin\Debug\DPFPShrNET.dll
+C:\Users\sistemas\Proyectos\PHT-Capturer\bin\Debug\DPFPVerNET.dll
+C:\Users\sistemas\Proyectos\PHT-Capturer\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\sistemas\Proyectos\PHT-Capturer\bin\Debug\DPFPCtlXTypeLibNET.dll
+C:\Users\sistemas\Proyectos\PHT-Capturer\bin\Debug\DPFPShrXTypeLibNET.dll
+C:\Users\sistemas\Proyectos\PHT-Capturer\bin\Debug\AForge.xml
+C:\Users\sistemas\Proyectos\PHT-Capturer\bin\Debug\AForge.Video.xml
+C:\Users\sistemas\Proyectos\PHT-Capturer\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\sistemas\Proyectos\PHT-Capturer\obj\Debug\EnrollmentSample CS.csproj.AssemblyReference.cache
+C:\Users\sistemas\Proyectos\PHT-Capturer\obj\Debug\EnrollmentSample CS.csproj.SuggestedBindingRedirects.cache
+C:\Users\sistemas\Proyectos\PHT-Capturer\obj\Debug\Enrollment.CaptureForm.resources
+C:\Users\sistemas\Proyectos\PHT-Capturer\obj\Debug\Enrollment.EnrollmentForm.resources
+C:\Users\sistemas\Proyectos\PHT-Capturer\obj\Debug\Enrollment.MainForm.resources
+C:\Users\sistemas\Proyectos\PHT-Capturer\obj\Debug\Enrollment.Properties.Resources.resources
+C:\Users\sistemas\Proyectos\PHT-Capturer\obj\Debug\Enrollment.WebcamForm.resources
+C:\Users\sistemas\Proyectos\PHT-Capturer\obj\Debug\EnrollmentSample CS.csproj.GenerateResource.cache
+C:\Users\sistemas\Proyectos\PHT-Capturer\obj\Debug\EnrollmentSample CS.csproj.CoreCompileInputs.cache
+C:\Users\sistemas\Proyectos\PHT-Capturer\obj\Debug\EnrollmentSample CS.csproj.CopyComplete
+C:\Users\sistemas\Proyectos\PHT-Capturer\obj\Debug\PHTools.exe
+C:\Users\sistemas\Proyectos\PHT-Capturer\obj\Debug\PHTools.pdb
